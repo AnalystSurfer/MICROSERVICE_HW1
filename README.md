@@ -48,5 +48,7 @@ plot/
 Результаты работы:
 
 RabbitMQ - http://localhost:15672 (guest/guest)
+
 Метрики сохраняются в файл: logs/metric_log.csv
+
 График распределения ошибок: logs/error_distribution.png
