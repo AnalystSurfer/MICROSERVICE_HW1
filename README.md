@@ -9,28 +9,38 @@ docker-compose.yml
 
 features/                 
 ├── Dockerfile
+
 ├── requirements.txt
+
 └── src/└── features.py
 
 logs/                     
 ├── error_distribution.png
+
 ├── metric_log.csv
 
 
 model/                    
 ├── Dockerfile
+
 ├── requirements.txt
-├── myfile.pkl          
+
+├── myfile.pkl        
+
 └── src/└── model.py
 
 metric/                   
 ├── Dockerfile
+
 ├── requirements.txt
+
 └── src/└── metric.py
 
 plot/                     
 ├── Dockerfile
+
 ├── requirements.txt
+
 └── plot.py
                  
 
