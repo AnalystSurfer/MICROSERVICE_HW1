@@ -11,26 +11,31 @@
 │   ├── Dockerfile
 │   ├── requirements.txt
 │   └── src/
-│       └── features.py
+       └── features.py
+
+├── logs/                     
+│   ├── Dockerfile
+│   ├── requirements.txt
+
 
 ├── model/                    
 │   ├── Dockerfile
 │   ├── requirements.txt
 │   ├── myfile.pkl          
 │   └── src/
-│       └── model.py
+       └── model.py
 
 ├── metric/                   
 │   ├── Dockerfile
 │   ├── requirements.txt
 │   └── src/
-│       └── metric.py
+       └── metric.py
 
 ├── plot/                     
 │   ├── Dockerfile
 │   ├── requirements.txt
 │   └── plot.py
-└── logs/                    
+                 
 
 
 Результаты работы:
