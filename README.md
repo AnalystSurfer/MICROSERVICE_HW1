@@ -31,10 +31,10 @@
 │   └── src/
        └── metric.py
 
-├── plot/                     
-│   ├── Dockerfile
-│   ├── requirements.txt
-│   └── plot.py
+plot/                     
+├── Dockerfile
+├── requirements.txt
+└── plot.py
                  
 
 
