@@ -5,31 +5,28 @@
 Архитектура проекта:
 
 
-├── docker-compose.yml    
+docker-compose.yml    
 
-├── features/                 
-│   ├── Dockerfile
-│   ├── requirements.txt
-│   └── src/
-       └── features.py
+features/                 
+├── Dockerfile
+├── requirements.txt
+└── src/└── features.py
 
-├── logs/                     
-│   ├── Dockerfile
-│   ├── requirements.txt
+logs/                     
+├── error_distribution.png
+├── metric_log.csv
 
 
-├── model/                    
-│   ├── Dockerfile
-│   ├── requirements.txt
-│   ├── myfile.pkl          
-│   └── src/
-       └── model.py
+model/                    
+├── Dockerfile
+├── requirements.txt
+├── myfile.pkl          
+└── src/└── model.py
 
-├── metric/                   
-│   ├── Dockerfile
-│   ├── requirements.txt
-│   └── src/
-       └── metric.py
+metric/                   
+├── Dockerfile
+├── requirements.txt
+└── src/└── metric.py
 
 plot/                     
 ├── Dockerfile
