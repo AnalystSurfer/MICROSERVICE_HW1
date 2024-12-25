@@ -4,7 +4,7 @@
 
 Архитектура проекта:
 
-microservice_architecture/
+
 ├── docker-compose.yml        
 ├── features/                 
 │   ├── Dockerfile
